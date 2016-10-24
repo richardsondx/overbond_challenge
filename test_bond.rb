@@ -1,4 +1,4 @@
-require_relative 'bonds'
+require_relative 'bond'
 require 'minitest/autorun'
 
 # tes_bond.rb Test for Bonds class

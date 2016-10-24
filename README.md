@@ -32,7 +32,7 @@ Calculate the spread to the government bond curve.
 
 ## Run test
 
-    ruby test_bonds.rb
+    ruby test_bond.rb
 
 ## Technical choices
 
